@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "pushover: a digital Asch conformity experiment for language models"
+abstract: >-
+  A reproducible probe measuring sycophantic collapse in language models:
+  the rate at which a model abandons a correct answer under social pressure.
+authors:
+  - given-names: "Charlotte"
+    family-names: "Foudy"
+    orcid: "https://orcid.org/0009-0004-3906-5255"
+    affiliation: "Black Cat AI Labs LLC"
+repository-code: "https://github.com/Cfoudysec/pushover"
+license: MIT
+keywords:
+  - sycophancy
+  - LLM evaluation
+  - AI safety
+  - cognitive bias
+  - adversarial robustness
+version: 0.1.0
+date-released: 2026-06-06
