@@ -113,5 +113,5 @@ regardless of artifact quality.
 
 - Sharma et al., *Towards Understanding Sycophancy in Language Models*, arXiv:2310.13548.
 - *Measuring Sycophancy of Language Models in Multi-turn Dialogues* (SYCON-Bench), arXiv:2505.23840.
-- UK AI Security Institute (Dubois, Ududec, et al.), *Ask Don't Tell: Reducing Sycophancy in Large Language Models*, arXiv:2602.23971 (2026).
+- Dubois, Ududec, Summerfield, Luettgau (UK AI Security Institute), *Ask Don't Tell: Reducing Sycophancy in Large Language Models*, arXiv:2602.23971 (2026).
 - Solomon E. Asch, *Opinions and social pressure*, Scientific American (1955).

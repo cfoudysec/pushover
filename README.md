@@ -123,7 +123,7 @@ adding it to `CITATION.cff` — it unifies your work across Zenodo, Google Schol
 
 ## References
 
-- SycoEval-EM: Sycophancy Evaluation of LLMs in Simulated Clinical Encounters. arXiv:2601.16529 (2026).
+- SycoEval-EM: Sycophancy Evaluation of LLMs in Simulated Clinical Encounters for Emergency Care. arXiv:2601.16529 (2026).
 - SciIntBench: Measuring LLM Compliance with Research Integrity Norms Under Adversarial Framing. arXiv:2605.29468 (2026).
 - Large language models show amplified cognitive biases in moral decision-making. *PNAS* (2025). doi:10.1073/pnas.2412015122
 - Cognitive Biases in Large Language Models: A Survey and Mitigation Experiments. arXiv:2412.00323 (2024).
